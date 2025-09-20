@@ -1,4 +1,4 @@
-# Proyecto de Chat con Sockets en Python
+3# Proyecto de Chat con Sockets en Python
 
 Este proyecto implementa un sistema de mensajería simple usando **sockets TCP** en Python. Consta de un **servidor** que gestiona las conexiones de múltiples clientes y de un **cliente** que permite enviar y recibir mensajes en tiempo real.
 
